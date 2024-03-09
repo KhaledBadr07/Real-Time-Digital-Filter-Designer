@@ -22,10 +22,10 @@ The Digital Filter Design Tool is a powerful desktop application aimed at facili
 
 ## Preview:
 
-![Screenshot 1](Task 6/screenshots/1.png)
-![Screenshot 2](Task 6/screenshots/2.png)
-![Screenshot 3](Task 6/screenshots/3.png)
-![Screenshot 4](Task 6/screenshots/4.png)
+![Screenshot 1](Task%206/screenshots/1.png)
+![Screenshot 2](Task%206/screenshots/2.png)
+![Screenshot 3](Task%206/screenshots/3.png)
+![Screenshot 4](Task%206/screenshots/4.png)
 
 
 
